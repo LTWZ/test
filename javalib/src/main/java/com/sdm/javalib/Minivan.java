@@ -7,5 +7,5 @@ class Minivan extends Vehicle{
 
 
 
-    int i = 9193228;
+    int i = 69;
 }
